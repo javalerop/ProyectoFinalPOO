@@ -21,7 +21,7 @@ INSTRUCCIONES DE EJECUCION DEL PROYECTO:
 
 1. Abra el archivo “inicio.pde” y ejecútelo (allí encontrará las clases que se utilizaron para lograr el proyecto)
 2. Después de ejecutar el archivo se abrirá el juego. El juego comenzara instantáneamente, por lo cual te debes mover con cierta agilidad.
-3. Si desea activar el campo de protección, puedes hacer click derecho en el mouse, y automáticamente te volverás invencible.
+3. Si desea activar el campo de protección, puedes hacer click izquierdo en el mouse, y automáticamente te volverás invencible.
 4. A medida que vayas avanzando en el juego, tu puntaje ira subiendo, si mueres, se tomara el puntaje más alto que hayas hecho hasta el momento.
 5. Cuando pierdas, puedes volver a jugar oprimiendo la tecla “x”, y volverás a principiar. La idea es que logres superar tu puntaje anterior.
 6. Si deseas salir del juego, solamente oprime la tecla “esc”, y automáticamente habrás salido del juego.
