@@ -63,12 +63,12 @@ El juego contiene los las siguientes clases, atributos y metodos.
          - Int puntajeMaximo
          - Int vida
     - Metodos:
-          - SetFondo()
-          - masPuntaje()
-          - SetPuntaje()
-          - GetPuntaje()
-          - SetPuntajeMaximo()
-          - SetVida()
+         - SetFondo()
+         - masPuntaje()
+         - SetPuntaje()
+         - GetPuntaje()
+         - SetPuntajeMaximo()
+         - SetVida()
 
 4. OTROS METODOS Y OTRAS VARIABLES
 
