@@ -52,10 +52,10 @@ El juego contiene los las siguientes clases, atributos y metodos.
          - Float rotacion
          - Float velocidadRotacion
     - Metodos:
-          - enemigo()
-          - pos()
-          - reset()
-          - Colision()
+         - enemigo()
+         - pos()
+         - reset()
+         - Colision()
 
 3. CLASE FONDO:
     - Atributos:
