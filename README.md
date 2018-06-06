@@ -89,7 +89,7 @@ DISCUSION DE RESULTADOS
 El juego practicamente esta bien, simplemente contiene un error en la parte de la bateria, al parecer no esta funcionando como deberia.
 Por lo tanto, el juego se encuentra en una fase de prueba, para de este modo poder hacer los cambios necesarios para que el juego pueda
 ser un juego mas atractivo para la sociedad. Desde el punto de vista academico, me parece que se logro lo que se queria que era aplicar
-los conceptos de programacion orientada objetos, aprendida en este semestre. Por ultimo cabe resaltar que el juego se encuentra en una
+los conceptos de programacion orientada objetos, conceptos aprendidos durante este semestre. Por ultimo cabe resaltar que el juego se encuentra en una
 etapa de diseño y prueba, para poder detectar los errores y poder trabajar a base de ellos.
 
 TRABAJO FUTURO
