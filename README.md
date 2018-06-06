@@ -32,16 +32,16 @@ El juego contiene los las siguientes clases, atributos y metodos.
 
 1. CLASE PROTAGONISTA
     - Atributos:
-          -Boolean invencible
-          -Int vida
-          -Float pos
+         -Boolean invencible
+         -Int vida
+         -Float pos
     - Metodos:
-          - SetX()
-          - GetX()
-          - SetInvencible()
-          - SetVida()
-          - GetVida()
-          - BajarVida()
+         - SetX()
+         - GetX()
+         - SetInvencible()
+         - SetVida()
+         - GetVida()
+         - BajarVida()
 
 2. CLASE ENEMIGO:
     - Atributos:
